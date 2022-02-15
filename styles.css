@@ -1,0 +1,19 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: mediumpurple;
+    font-size: 500%;
+}
+p {
+  color: slateblue;
+    margin-right: 40%;
+}
+ul{
+    border: 2px solid black;
+    float: right;
+    font-size: 200%;
+}
+.highlightme{
+    background-color: yellow;
+}
