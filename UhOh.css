@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+
+p {
+  color: red;
+    font-size: 150%;
+    margin: 50px 25px 30px 50px;
+  }
+a {
+    color: white;
+}
